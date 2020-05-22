@@ -1,4 +1,6 @@
 *.png
+*.csv
+*.pdf
 *.txt
 *.eps
 .DS_Store
